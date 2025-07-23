@@ -1,0 +1,291 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1751882016362045, "dur":25213, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016387320, "dur":823, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016388887, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1751882016389125, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1751882016388159, "dur":1748, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016389908, "dur":504261, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016894170, "dur":869, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016895224, "dur":842, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1751882016387698, "dur":2217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1751882016389920, "dur":2729, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1751882016393111, "dur":682, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1751882016393794, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1751882016393794, "dur":372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1751882016394401, "dur":497324, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1751882016893450, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1751882016893449, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1751882016893517, "dur":541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1751882016388100, "dur":1903, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1751882016390008, "dur":419, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1751882016390428, "dur":2416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1751882016409839, "dur":20541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1751882016430422, "dur":23913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1751882016454353, "dur":439869, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1751882016388225, "dur":1866, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1751882016390092, "dur":2648, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1751882016392750, "dur":132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1751882016392740, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1751882016392884, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1751882016392948, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1751882016392947, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1751882016398124, "dur":9189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1751882016407386, "dur":14466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1751882016421881, "dur":23460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1751882016445407, "dur":2436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1751882016447886, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1751882016450392, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1751882016452591, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1751882016455467, "dur":438686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1751882016387921, "dur":2061, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1751882016389987, "dur":568, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1751882016390555, "dur":2218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1751882016392782, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1751882016392778, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1751882016411320, "dur":25131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1751882016436506, "dur":23327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1751882016459854, "dur":434390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1751882016388969, "dur":1237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1751882016390207, "dur":2575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1751882016397803, "dur":6787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1751882016404650, "dur":14890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1751882016419602, "dur":25100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1751882016444736, "dur":20907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1751882016465669, "dur":428514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1751882016388735, "dur":1418, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1751882016390153, "dur":2506, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1751882016392661, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1751882016392840, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1751882016393012, "dur":165, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1751882016398454, "dur":10209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1751882016408742, "dur":19451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1751882016428216, "dur":24518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1751882016452776, "dur":441401, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1751882016390233, "dur":2536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1751882016392772, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1751882016398223, "dur":10255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1751882016408532, "dur":18998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1751882016427566, "dur":24196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1751882016451790, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1751882016455005, "dur":439215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1751882016388008, "dur":1982, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1751882016389995, "dur":451, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1751882016390446, "dur":2368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1751882016398357, "dur":10168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1751882016408585, "dur":19334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1751882016427993, "dur":24359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1751882016452400, "dur":3474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1751882016455895, "dur":438339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1751882016390476, "dur":2352, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1751882016408402, "dur":18637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1751882016427088, "dur":21062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1751882016448183, "dur":3128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1751882016451358, "dur":2786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/level0.resS" }}
+,{ "pid":12345, "tid":9, "ts":1751882016454188, "dur":439958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1751882016388386, "dur":1758, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1751882016390145, "dur":2519, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1751882016392726, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1751882016392859, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1751882016392939, "dur":356, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016392937, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016397438, "dur":6019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016403497, "dur":14877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016418431, "dur":24693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016443151, "dur":21435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1751882016464623, "dur":429678, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1751882016387735, "dur":2239, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1751882016389982, "dur":425, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1751882016390407, "dur":2347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1751882016392757, "dur":357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1751882016396921, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1751882016399716, "dur":11364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1751882016411117, "dur":23772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1751882016434919, "dur":22009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1751882016456943, "dur":437307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1751882016389496, "dur":838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1751882016390335, "dur":2397, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1751882016392733, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1751882016393078, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1751882016393191, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016393185, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016397621, "dur":6777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016404433, "dur":14185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016418688, "dur":23440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016442153, "dur":22387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1751882016464597, "dur":429622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1751882016389144, "dur":1057, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1751882016390201, "dur":2534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1751882016392770, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":13, "ts":1751882016392736, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1751882016392929, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1751882016393069, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016393068, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016397273, "dur":3990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016401287, "dur":14496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016415833, "dur":25834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016441713, "dur":21446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1751882016463183, "dur":431030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1751882016389230, "dur":1126, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1751882016390357, "dur":2469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1751882016401613, "dur":14383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1751882016416041, "dur":25169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1751882016441235, "dur":21208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1751882016462463, "dur":431796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1751882016389477, "dur":705, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1751882016390183, "dur":2575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1751882016392785, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1751882016392760, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1751882016411658, "dur":28191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1751882016439904, "dur":20860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1751882016460801, "dur":433447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1751882016389251, "dur":947, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1751882016390199, "dur":2875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1751882016393097, "dur":354, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016393077, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016397981, "dur":8985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016407044, "dur":14357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016421450, "dur":23613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016445090, "dur":20728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1751882016465839, "dur":428349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1751882016389274, "dur":1075, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1751882016390350, "dur":2391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1751882016392752, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":17, "ts":1751882016392983, "dur":95, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1751882016393086, "dur":102, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1751882016398579, "dur":10207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1751882016408858, "dur":19583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1751882016428490, "dur":25590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1751882016454121, "dur":440055, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1751882016389354, "dur":842, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1751882016390196, "dur":2542, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1751882016392739, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":18, "ts":1751882016398079, "dur":10091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1751882016408226, "dur":19064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1751882016427352, "dur":21921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1751882016449302, "dur":3529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":18, "ts":1751882016452863, "dur":441298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1751882016389371, "dur":822, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1751882016390193, "dur":2595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1751882016398321, "dur":9062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":19, "ts":1751882016407437, "dur":15062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1751882016422523, "dur":25228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1751882016447775, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":19, "ts":1751882016449008, "dur":2831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1751882016451859, "dur":3616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1751882016455497, "dur":438805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1751882016389386, "dur":943, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1751882016390330, "dur":2433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1751882016392815, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016392766, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016392973, "dur":70, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1751882016396821, "dur":5344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016402212, "dur":13230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016415482, "dur":25430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016440954, "dur":20645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1751882016461627, "dur":432619, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1751882016389444, "dur":884, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1751882016390328, "dur":2718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1751882016393056, "dur":609, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\nastj\\Battleship\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016393047, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016397937, "dur":7333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016405337, "dur":14970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016420354, "dur":24435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016444845, "dur":20828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1751882016465690, "dur":428552, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1751882016389461, "dur":725, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1751882016390187, "dur":2467, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1751882016392659, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":22, "ts":1751882016392750, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016392749, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016392997, "dur":80, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1751882016397618, "dur":5571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016403212, "dur":14448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016417707, "dur":24112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016441851, "dur":20573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1751882016462453, "dur":431857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1751882016389525, "dur":646, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1751882016390171, "dur":2490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1751882016392661, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":23, "ts":1751882016392751, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016392750, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016392977, "dur":72, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1751882016397451, "dur":6647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016404123, "dur":13993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016418187, "dur":23589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016441807, "dur":19796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1751882016461628, "dur":432575, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1751882016389749, "dur":415, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1751882016390165, "dur":2490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1751882016392732, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1751882016410637, "dur":21906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":24, "ts":1751882016432579, "dur":23514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1751882016456109, "dur":438103, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1751882016389720, "dur":603, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1751882016390324, "dur":2329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1751882016393138, "dur":451, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":25, "ts":1751882016395817, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/app.info" }}
+,{ "pid":12345, "tid":25, "ts":1751882016399482, "dur":10300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":25, "ts":1751882016409804, "dur":20791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1751882016430617, "dur":24866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1751882016455503, "dur":438718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016388124, "dur":1930, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016390069, "dur":361, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016390431, "dur":2248, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016392683, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":26, "ts":1751882016392857, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016393020, "dur":158, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1751882016397981, "dur":6660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":26, "ts":1751882016404667, "dur":15018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1751882016419709, "dur":24324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1751882016444075, "dur":20131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1751882016464231, "dur":429942, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1751882016389612, "dur":561, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1751882016390173, "dur":2603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1751882016410931, "dur":22030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":27, "ts":1751882016432987, "dur":23529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1751882016456531, "dur":437711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1751882016389684, "dur":495, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1751882016390179, "dur":2483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1751882016392663, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":28, "ts":1751882016392751, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":28, "ts":1751882016392750, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship.exe" }}
+,{ "pid":12345, "tid":28, "ts":1751882016410227, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship.exe" }}
+,{ "pid":12345, "tid":28, "ts":1751882016411550, "dur":24443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1751882016436027, "dur":22992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1751882016459036, "dur":435113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1751882016389944, "dur":397, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1751882016390341, "dur":2321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1751882016392727, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":29, "ts":1751882016392723, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":29, "ts":1751882016393010, "dur":79, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1751882016393090, "dur":105, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1751882016398136, "dur":7312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":29, "ts":1751882016405482, "dur":14416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1751882016419955, "dur":24091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1751882016444088, "dur":20474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1751882016464593, "dur":429643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1751882016389960, "dur":637, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1751882016390597, "dur":2163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1751882016392776, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":30, "ts":1751882016392764, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/Battleship_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":30, "ts":1751882016409162, "dur":20675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":30, "ts":1751882016429862, "dur":24036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1751882016453933, "dur":440219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1751882016388199, "dur":1877, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1751882016390077, "dur":2579, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1751882016392741, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1751882016402654, "dur":13558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":31, "ts":1751882016416245, "dur":24688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1751882016441027, "dur":19722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1751882016460808, "dur":433432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1751882016389989, "dur":425, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1751882016390414, "dur":2330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1751882016392749, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/nastj/Downloads/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":32, "ts":1751882016393003, "dur":75, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1751882016397938, "dur":6936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":32, "ts":1751882016404945, "dur":14073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1751882016419069, "dur":24032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1751882016443138, "dur":20241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/nastj/Downloads/Battleship_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1751882016463398, "dur":430908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1751882016898105, "dur":603, "ph":"X", "name": "ProfilerWriteOutput" }
+,
